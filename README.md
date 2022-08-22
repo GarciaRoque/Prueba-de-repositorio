@@ -1,3 +1,5 @@
-# Prueba-de-repositorio
+# Estructura de datos
 
-Es solo una prueba para hacer un repositorio
+Integrantes:
+Garcia Roque Andres Yair
+Hernandez Torres Diana
